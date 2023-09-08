@@ -58,6 +58,7 @@ btnAccept.click()
 # waitingID(driver, "btnSubmit", 10)
 # btnEnter = driver.find_element(By.ID, "btnSubmit")
 # btnEnter.click()
+# End
 
 sleep(60)
 
